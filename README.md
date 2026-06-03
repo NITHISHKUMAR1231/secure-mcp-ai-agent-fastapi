@@ -147,20 +147,6 @@ Run server:
 
 uvicorn app.main:app --reload
 
----
-
-## API Documentation
-
-Swagger UI:
-
-http://127.0.0.1:8000/docs
-
-Redoc:
-
-http://127.0.0.1:8000/redoc
-
----
-
 ## Security Implemented
 
 ### JWT Authentication
