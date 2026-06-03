@@ -1,0 +1,245 @@
+2026-06-01 13:19:24,277 - INFO - User Login: nithish
+2026-06-01 13:19:26,747 - INFO - User Login: nithish
+2026-06-01 13:19:45,362 - INFO - User Login: nithish
+2026-06-01 13:20:08,957 - INFO - JWT Verified nithish
+2026-06-01 13:20:08,958 - INFO - Agent Processing health
+2026-06-01 13:20:08,959 - INFO - MCP Client Sending Request
+2026-06-01 13:20:08,959 - INFO - MCP Server Received: health
+2026-06-01 13:20:08,959 - INFO - Prompt Validation Passed
+2026-06-01 13:20:09,344 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:09,344 - INFO - Using Fallback Router
+2026-06-01 13:20:09,344 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:09,344 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:09,344 - INFO - RBAC Passed
+2026-06-01 13:20:09,344 - INFO - Health Tool Executed
+2026-06-01 13:20:24,001 - INFO - JWT Verified nithish
+2026-06-01 13:20:24,005 - INFO - Agent Processing health
+2026-06-01 13:20:24,005 - INFO - MCP Client Sending Request
+2026-06-01 13:20:24,005 - INFO - MCP Server Received: health
+2026-06-01 13:20:24,005 - INFO - Prompt Validation Passed
+2026-06-01 13:20:24,245 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:24,245 - INFO - Using Fallback Router
+2026-06-01 13:20:24,245 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:24,245 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:24,245 - INFO - RBAC Passed
+2026-06-01 13:20:24,245 - INFO - Health Tool Executed
+2026-06-01 13:20:25,506 - INFO - JWT Verified nithish
+2026-06-01 13:20:25,509 - INFO - Agent Processing health
+2026-06-01 13:20:25,509 - INFO - MCP Client Sending Request
+2026-06-01 13:20:25,509 - INFO - MCP Server Received: health
+2026-06-01 13:20:25,509 - INFO - Prompt Validation Passed
+2026-06-01 13:20:25,639 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:25,639 - INFO - Using Fallback Router
+2026-06-01 13:20:25,639 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:25,639 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:25,639 - INFO - RBAC Passed
+2026-06-01 13:20:25,639 - INFO - Health Tool Executed
+2026-06-01 13:20:26,139 - INFO - JWT Verified nithish
+2026-06-01 13:20:26,142 - INFO - Agent Processing health
+2026-06-01 13:20:26,142 - INFO - MCP Client Sending Request
+2026-06-01 13:20:26,142 - INFO - MCP Server Received: health
+2026-06-01 13:20:26,142 - INFO - Prompt Validation Passed
+2026-06-01 13:20:26,460 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:26,460 - INFO - Using Fallback Router
+2026-06-01 13:20:26,460 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:26,460 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:26,460 - INFO - RBAC Passed
+2026-06-01 13:20:26,460 - INFO - Health Tool Executed
+2026-06-01 13:20:26,978 - INFO - JWT Verified nithish
+2026-06-01 13:20:26,979 - INFO - Agent Processing health
+2026-06-01 13:20:26,979 - INFO - MCP Client Sending Request
+2026-06-01 13:20:26,979 - INFO - MCP Server Received: health
+2026-06-01 13:20:26,979 - INFO - Prompt Validation Passed
+2026-06-01 13:20:27,073 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:27,073 - INFO - Using Fallback Router
+2026-06-01 13:20:27,073 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:27,073 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:27,073 - INFO - RBAC Passed
+2026-06-01 13:20:27,074 - INFO - Health Tool Executed
+2026-06-01 13:20:27,699 - INFO - JWT Verified nithish
+2026-06-01 13:20:27,702 - INFO - Agent Processing health
+2026-06-01 13:20:27,702 - INFO - MCP Client Sending Request
+2026-06-01 13:20:27,702 - INFO - MCP Server Received: health
+2026-06-01 13:20:27,702 - INFO - Prompt Validation Passed
+2026-06-01 13:20:27,899 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:27,899 - INFO - Using Fallback Router
+2026-06-01 13:20:27,899 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:27,899 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:27,899 - INFO - RBAC Passed
+2026-06-01 13:20:27,900 - INFO - Health Tool Executed
+2026-06-01 13:20:28,353 - INFO - JWT Verified nithish
+2026-06-01 13:20:28,355 - INFO - Agent Processing health
+2026-06-01 13:20:28,355 - INFO - MCP Client Sending Request
+2026-06-01 13:20:28,356 - INFO - MCP Server Received: health
+2026-06-01 13:20:28,356 - INFO - Prompt Validation Passed
+2026-06-01 13:20:28,511 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:28,511 - INFO - Using Fallback Router
+2026-06-01 13:20:28,511 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:28,511 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:28,511 - INFO - RBAC Passed
+2026-06-01 13:20:28,511 - INFO - Health Tool Executed
+2026-06-01 13:20:28,947 - INFO - JWT Verified nithish
+2026-06-01 13:20:28,950 - INFO - Agent Processing health
+2026-06-01 13:20:28,950 - INFO - MCP Client Sending Request
+2026-06-01 13:20:28,950 - INFO - MCP Server Received: health
+2026-06-01 13:20:28,950 - INFO - Prompt Validation Passed
+2026-06-01 13:20:29,018 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:29,019 - INFO - Using Fallback Router
+2026-06-01 13:20:29,019 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:29,019 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:29,019 - INFO - RBAC Passed
+2026-06-01 13:20:29,019 - INFO - Health Tool Executed
+2026-06-01 13:20:29,936 - INFO - JWT Verified nithish
+2026-06-01 13:20:29,937 - INFO - Agent Processing health
+2026-06-01 13:20:29,937 - INFO - MCP Client Sending Request
+2026-06-01 13:20:29,938 - INFO - MCP Server Received: health
+2026-06-01 13:20:29,938 - INFO - Prompt Validation Passed
+2026-06-01 13:20:30,044 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:30,047 - INFO - Using Fallback Router
+2026-06-01 13:20:30,047 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:30,047 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:30,047 - INFO - RBAC Passed
+2026-06-01 13:20:30,047 - INFO - Health Tool Executed
+2026-06-01 13:20:30,795 - INFO - JWT Verified nithish
+2026-06-01 13:20:30,797 - INFO - Agent Processing health
+2026-06-01 13:20:30,797 - INFO - MCP Client Sending Request
+2026-06-01 13:20:30,797 - INFO - MCP Server Received: health
+2026-06-01 13:20:30,797 - INFO - Prompt Validation Passed
+2026-06-01 13:20:30,901 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-01 13:20:30,901 - INFO - Using Fallback Router
+2026-06-01 13:20:30,901 - INFO - Selected Tool: health_tool
+2026-06-01 13:20:30,902 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-01 13:20:30,902 - INFO - RBAC Passed
+2026-06-01 13:20:30,902 - INFO - Health Tool Executed
+2026-06-01 13:20:31,667 - INFO - JWT Verified nithish
+2026-06-01 13:21:22,847 - INFO - JWT Verified nithish
+2026-06-01 13:21:22,849 - INFO - Agent Processing delete database
+2026-06-01 13:21:22,849 - INFO - MCP Client Sending Request
+2026-06-01 13:21:22,849 - INFO - MCP Server Received: delete database
+2026-06-01 13:21:22,849 - ERROR - Prompt Injection Detected: delete database
+2026-06-01 13:21:22,849 - ERROR - Unsafe Prompt
+2026-06-03 11:58:45,229 - INFO - User Login: nithish
+2026-06-03 11:58:47,954 - INFO - User Login: nithish
+2026-06-03 11:59:01,109 - INFO - User Login: nithish
+2026-06-03 11:59:22,110 - INFO - JWT Verified nithish
+2026-06-03 11:59:22,112 - INFO - Agent Processing health
+2026-06-03 11:59:22,112 - INFO - MCP Client Sending Request
+2026-06-03 11:59:22,112 - INFO - MCP Server Received: health
+2026-06-03 11:59:22,112 - INFO - Prompt Validation Passed
+2026-06-03 11:59:22,562 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:22,562 - INFO - Using Fallback Router
+2026-06-03 11:59:22,562 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:22,562 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:22,562 - INFO - RBAC Passed
+2026-06-03 11:59:22,562 - INFO - Health Tool Executed
+2026-06-03 11:59:35,162 - INFO - JWT Verified nithish
+2026-06-03 11:59:35,165 - INFO - Agent Processing delete data base
+2026-06-03 11:59:35,165 - INFO - MCP Client Sending Request
+2026-06-03 11:59:35,165 - INFO - MCP Server Received: delete data base
+2026-06-03 11:59:35,165 - INFO - Prompt Validation Passed
+2026-06-03 11:59:35,361 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:35,361 - INFO - Using Fallback Router
+2026-06-03 11:59:35,361 - INFO - Selected Tool: None
+2026-06-03 11:59:35,361 - INFO - RBAC Check Role=viewer Tool=None
+2026-06-03 11:59:35,361 - ERROR - RBAC Access Denied
+2026-06-03 11:59:35,361 - ERROR - Access Denied
+2026-06-03 11:59:49,606 - INFO - JWT Verified nithish
+2026-06-03 11:59:49,608 - INFO - Agent Processing health
+2026-06-03 11:59:49,609 - INFO - MCP Client Sending Request
+2026-06-03 11:59:49,609 - INFO - MCP Server Received: health
+2026-06-03 11:59:49,609 - INFO - Prompt Validation Passed
+2026-06-03 11:59:49,800 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:49,801 - INFO - Using Fallback Router
+2026-06-03 11:59:49,801 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:49,801 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:49,801 - INFO - RBAC Passed
+2026-06-03 11:59:49,801 - INFO - Health Tool Executed
+2026-06-03 11:59:51,478 - INFO - JWT Verified nithish
+2026-06-03 11:59:51,481 - INFO - Agent Processing health
+2026-06-03 11:59:51,481 - INFO - MCP Client Sending Request
+2026-06-03 11:59:51,481 - INFO - MCP Server Received: health
+2026-06-03 11:59:51,481 - INFO - Prompt Validation Passed
+2026-06-03 11:59:51,745 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:51,746 - INFO - Using Fallback Router
+2026-06-03 11:59:51,746 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:51,746 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:51,746 - INFO - RBAC Passed
+2026-06-03 11:59:51,746 - INFO - Health Tool Executed
+2026-06-03 11:59:52,231 - INFO - JWT Verified nithish
+2026-06-03 11:59:52,232 - INFO - Agent Processing health
+2026-06-03 11:59:52,233 - INFO - MCP Client Sending Request
+2026-06-03 11:59:52,233 - INFO - MCP Server Received: health
+2026-06-03 11:59:52,233 - INFO - Prompt Validation Passed
+2026-06-03 11:59:52,360 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:52,361 - INFO - Using Fallback Router
+2026-06-03 11:59:52,361 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:52,361 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:52,361 - INFO - RBAC Passed
+2026-06-03 11:59:52,361 - INFO - Health Tool Executed
+2026-06-03 11:59:53,009 - INFO - JWT Verified nithish
+2026-06-03 11:59:53,011 - INFO - Agent Processing health
+2026-06-03 11:59:53,011 - INFO - MCP Client Sending Request
+2026-06-03 11:59:53,011 - INFO - MCP Server Received: health
+2026-06-03 11:59:53,012 - INFO - Prompt Validation Passed
+2026-06-03 11:59:53,178 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:53,178 - INFO - Using Fallback Router
+2026-06-03 11:59:53,178 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:53,178 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:53,179 - INFO - RBAC Passed
+2026-06-03 11:59:53,179 - INFO - Health Tool Executed
+2026-06-03 11:59:53,739 - INFO - JWT Verified nithish
+2026-06-03 11:59:53,741 - INFO - Agent Processing health
+2026-06-03 11:59:53,741 - INFO - MCP Client Sending Request
+2026-06-03 11:59:53,741 - INFO - MCP Server Received: health
+2026-06-03 11:59:53,741 - INFO - Prompt Validation Passed
+2026-06-03 11:59:53,848 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:53,848 - INFO - Using Fallback Router
+2026-06-03 11:59:53,848 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:53,848 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:53,848 - INFO - RBAC Passed
+2026-06-03 11:59:53,848 - INFO - Health Tool Executed
+2026-06-03 11:59:54,443 - INFO - JWT Verified nithish
+2026-06-03 11:59:54,443 - INFO - Agent Processing health
+2026-06-03 11:59:54,443 - INFO - MCP Client Sending Request
+2026-06-03 11:59:54,445 - INFO - MCP Server Received: health
+2026-06-03 11:59:54,445 - INFO - Prompt Validation Passed
+2026-06-03 11:59:54,612 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:54,612 - INFO - Using Fallback Router
+2026-06-03 11:59:54,612 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:54,612 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:54,612 - INFO - RBAC Passed
+2026-06-03 11:59:54,612 - INFO - Health Tool Executed
+2026-06-03 11:59:55,093 - INFO - JWT Verified nithish
+2026-06-03 11:59:55,094 - INFO - Agent Processing health
+2026-06-03 11:59:55,094 - INFO - MCP Client Sending Request
+2026-06-03 11:59:55,094 - INFO - MCP Server Received: health
+2026-06-03 11:59:55,094 - INFO - Prompt Validation Passed
+2026-06-03 11:59:55,227 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:55,227 - INFO - Using Fallback Router
+2026-06-03 11:59:55,228 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:55,228 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:55,228 - INFO - RBAC Passed
+2026-06-03 11:59:55,228 - INFO - Health Tool Executed
+2026-06-03 11:59:55,580 - INFO - JWT Verified nithish
+2026-06-03 11:59:55,581 - INFO - Agent Processing health
+2026-06-03 11:59:55,581 - INFO - MCP Client Sending Request
+2026-06-03 11:59:55,581 - INFO - MCP Server Received: health
+2026-06-03 11:59:55,581 - INFO - Prompt Validation Passed
+2026-06-03 11:59:55,702 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:55,703 - INFO - Using Fallback Router
+2026-06-03 11:59:55,703 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:55,703 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:55,703 - INFO - RBAC Passed
+2026-06-03 11:59:55,703 - INFO - Health Tool Executed
+2026-06-03 11:59:55,824 - INFO - JWT Verified nithish
+2026-06-03 11:59:55,827 - INFO - Agent Processing health
+2026-06-03 11:59:55,827 - INFO - MCP Client Sending Request
+2026-06-03 11:59:55,827 - INFO - MCP Server Received: health
+2026-06-03 11:59:55,827 - INFO - Prompt Validation Passed
+2026-06-03 11:59:55,944 - ERROR - Groq Failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-06-03 11:59:55,944 - INFO - Using Fallback Router
+2026-06-03 11:59:55,944 - INFO - Selected Tool: health_tool
+2026-06-03 11:59:55,944 - INFO - RBAC Check Role=viewer Tool=health_tool
+2026-06-03 11:59:55,944 - INFO - RBAC Passed
+2026-06-03 11:59:55,944 - INFO - Health Tool Executed
+2026-06-03 11:59:56,146 - INFO - JWT Verified nithish
